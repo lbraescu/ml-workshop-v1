@@ -3797,11 +3797,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspaces\\workspace.ml\\regression\\start\\regression.csproj",
+      "projectUniqueName": "D:\\workspaces\\workspace.ml\\regression\\end\\regression.csproj",
       "projectName": "regression",
-      "projectPath": "D:\\workspaces\\workspace.ml\\regression\\start\\regression.csproj",
+      "projectPath": "D:\\workspaces\\workspace.ml\\regression\\end\\regression.csproj",
       "packagesPath": "C:\\Users\\Lucian\\.nuget\\packages\\",
-      "outputPath": "D:\\workspaces\\workspace.ml\\regression\\start\\obj\\",
+      "outputPath": "D:\\workspaces\\workspace.ml\\regression\\end\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
