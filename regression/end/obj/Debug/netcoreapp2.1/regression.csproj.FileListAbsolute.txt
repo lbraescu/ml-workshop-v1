@@ -1,0 +1,11 @@
+D:\workspaces\workspace.ml\regression\start\obj\Debug\netcoreapp2.1\regression.csprojAssemblyReference.cache
+D:\workspaces\workspace.ml\regression\start\obj\Debug\netcoreapp2.1\regression.csproj.CoreCompileInputs.cache
+D:\workspaces\workspace.ml\regression\start\obj\Debug\netcoreapp2.1\regression.AssemblyInfoInputs.cache
+D:\workspaces\workspace.ml\regression\start\obj\Debug\netcoreapp2.1\regression.AssemblyInfo.cs
+D:\workspaces\workspace.ml\regression\start\bin\Debug\netcoreapp2.1\regression.deps.json
+D:\workspaces\workspace.ml\regression\start\bin\Debug\netcoreapp2.1\regression.runtimeconfig.json
+D:\workspaces\workspace.ml\regression\start\bin\Debug\netcoreapp2.1\regression.runtimeconfig.dev.json
+D:\workspaces\workspace.ml\regression\start\bin\Debug\netcoreapp2.1\regression.dll
+D:\workspaces\workspace.ml\regression\start\bin\Debug\netcoreapp2.1\regression.pdb
+D:\workspaces\workspace.ml\regression\start\obj\Debug\netcoreapp2.1\regression.dll
+D:\workspaces\workspace.ml\regression\start\obj\Debug\netcoreapp2.1\regression.pdb
