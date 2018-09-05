@@ -1,0 +1,11 @@
+D:\workspaces\workspace.ml\classification\start\bin\Debug\netcoreapp2.1\classification.deps.json
+D:\workspaces\workspace.ml\classification\start\bin\Debug\netcoreapp2.1\classification.runtimeconfig.json
+D:\workspaces\workspace.ml\classification\start\bin\Debug\netcoreapp2.1\classification.runtimeconfig.dev.json
+D:\workspaces\workspace.ml\classification\start\bin\Debug\netcoreapp2.1\classification.dll
+D:\workspaces\workspace.ml\classification\start\bin\Debug\netcoreapp2.1\classification.pdb
+D:\workspaces\workspace.ml\classification\start\obj\Debug\netcoreapp2.1\classification.csprojAssemblyReference.cache
+D:\workspaces\workspace.ml\classification\start\obj\Debug\netcoreapp2.1\classification.csproj.CoreCompileInputs.cache
+D:\workspaces\workspace.ml\classification\start\obj\Debug\netcoreapp2.1\classification.AssemblyInfoInputs.cache
+D:\workspaces\workspace.ml\classification\start\obj\Debug\netcoreapp2.1\classification.AssemblyInfo.cs
+D:\workspaces\workspace.ml\classification\start\obj\Debug\netcoreapp2.1\classification.dll
+D:\workspaces\workspace.ml\classification\start\obj\Debug\netcoreapp2.1\classification.pdb
