@@ -1,0 +1,14 @@
+C:\Workspaces\workspace.play\ml.net\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
+C:\Workspaces\workspace.play\ml.net\api\obj\Debug\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+C:\Workspaces\workspace.play\ml.net\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cache
+C:\Workspaces\workspace.play\ml.net\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cs
+C:\Workspaces\workspace.play\ml.net\api\obj\Debug\netcoreapp2.1\api.AssemblyInfoInputs.cache
+C:\Workspaces\workspace.play\ml.net\api\obj\Debug\netcoreapp2.1\api.AssemblyInfo.cs
+C:\Workspaces\workspace.play\ml.net\api\bin\Debug\netcoreapp2.1\api.deps.json
+C:\Workspaces\workspace.play\ml.net\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.json
+C:\Workspaces\workspace.play\ml.net\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.dev.json
+C:\Workspaces\workspace.play\ml.net\api\bin\Debug\netcoreapp2.1\api.dll
+C:\Workspaces\workspace.play\ml.net\api\bin\Debug\netcoreapp2.1\api.pdb
+C:\Workspaces\workspace.play\ml.net\api\obj\Debug\netcoreapp2.1\api.RazorTargetAssemblyInfo.cache
+C:\Workspaces\workspace.play\ml.net\api\obj\Debug\netcoreapp2.1\api.dll
+C:\Workspaces\workspace.play\ml.net\api\obj\Debug\netcoreapp2.1\api.pdb

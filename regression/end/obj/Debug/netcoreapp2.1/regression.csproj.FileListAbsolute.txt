@@ -20,3 +20,14 @@ D:\workspaces\workspace.ml\regression\end\obj\Debug\netcoreapp2.1\regression.Ass
 D:\workspaces\workspace.ml\regression\end\obj\Debug\netcoreapp2.1\regression.AssemblyInfo.cs
 D:\workspaces\workspace.ml\regression\end\obj\Debug\netcoreapp2.1\regression.dll
 D:\workspaces\workspace.ml\regression\end\obj\Debug\netcoreapp2.1\regression.pdb
+C:\Workspaces\workspace.play\ml.net\regression\end\bin\Debug\netcoreapp2.1\regression.deps.json
+C:\Workspaces\workspace.play\ml.net\regression\end\bin\Debug\netcoreapp2.1\regression.runtimeconfig.json
+C:\Workspaces\workspace.play\ml.net\regression\end\bin\Debug\netcoreapp2.1\regression.runtimeconfig.dev.json
+C:\Workspaces\workspace.play\ml.net\regression\end\bin\Debug\netcoreapp2.1\regression.dll
+C:\Workspaces\workspace.play\ml.net\regression\end\bin\Debug\netcoreapp2.1\regression.pdb
+C:\Workspaces\workspace.play\ml.net\regression\end\obj\Debug\netcoreapp2.1\regression.csprojAssemblyReference.cache
+C:\Workspaces\workspace.play\ml.net\regression\end\obj\Debug\netcoreapp2.1\regression.csproj.CoreCompileInputs.cache
+C:\Workspaces\workspace.play\ml.net\regression\end\obj\Debug\netcoreapp2.1\regression.AssemblyInfoInputs.cache
+C:\Workspaces\workspace.play\ml.net\regression\end\obj\Debug\netcoreapp2.1\regression.AssemblyInfo.cs
+C:\Workspaces\workspace.play\ml.net\regression\end\obj\Debug\netcoreapp2.1\regression.dll
+C:\Workspaces\workspace.play\ml.net\regression\end\obj\Debug\netcoreapp2.1\regression.pdb

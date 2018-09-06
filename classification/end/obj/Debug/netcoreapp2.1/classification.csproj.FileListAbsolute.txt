@@ -9,3 +9,14 @@ D:\workspaces\workspace.ml\classification\end\bin\Debug\netcoreapp2.1\classifica
 D:\workspaces\workspace.ml\classification\end\bin\Debug\netcoreapp2.1\classification.pdb
 D:\workspaces\workspace.ml\classification\end\obj\Debug\netcoreapp2.1\classification.dll
 D:\workspaces\workspace.ml\classification\end\obj\Debug\netcoreapp2.1\classification.pdb
+C:\Workspaces\workspace.play\ml.net\classification\end\bin\Debug\netcoreapp2.1\classification.deps.json
+C:\Workspaces\workspace.play\ml.net\classification\end\bin\Debug\netcoreapp2.1\classification.runtimeconfig.json
+C:\Workspaces\workspace.play\ml.net\classification\end\bin\Debug\netcoreapp2.1\classification.runtimeconfig.dev.json
+C:\Workspaces\workspace.play\ml.net\classification\end\bin\Debug\netcoreapp2.1\classification.dll
+C:\Workspaces\workspace.play\ml.net\classification\end\bin\Debug\netcoreapp2.1\classification.pdb
+C:\Workspaces\workspace.play\ml.net\classification\end\obj\Debug\netcoreapp2.1\classification.csprojAssemblyReference.cache
+C:\Workspaces\workspace.play\ml.net\classification\end\obj\Debug\netcoreapp2.1\classification.csproj.CoreCompileInputs.cache
+C:\Workspaces\workspace.play\ml.net\classification\end\obj\Debug\netcoreapp2.1\classification.AssemblyInfoInputs.cache
+C:\Workspaces\workspace.play\ml.net\classification\end\obj\Debug\netcoreapp2.1\classification.AssemblyInfo.cs
+C:\Workspaces\workspace.play\ml.net\classification\end\obj\Debug\netcoreapp2.1\classification.dll
+C:\Workspaces\workspace.play\ml.net\classification\end\obj\Debug\netcoreapp2.1\classification.pdb
